@@ -1,2 +1,2 @@
 # destroytheworld
-app the destroys the world
+app that eventually destroys the world
